@@ -16,7 +16,7 @@
     }
   },
   "extends": [
-    "eslint:recommended",
+    "normanzb-base",
     "plugin:react/recommended"
   ],
   "plugins": [
