@@ -21,5 +21,10 @@
   ],
   "plugins": [
     "react"
-  ]
+  ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
 }
